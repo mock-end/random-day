@@ -46,7 +46,7 @@ randomDay({ month: 1 }); // 1~31
 Optionally specify year when month is `2` to figure out leap years:
 
 ```js
-randomDay({ year: 2016 month: 2 }); 1~29
+randomDay({ year: 2016 month: 2 }); // 1~29
 // => 18
 ```
 
